@@ -14,7 +14,7 @@ repos:
   - fedora
   - fedora-updates
   - fedora-updates-testing
-  - dustymabe-ignition
+  - sinnykumari-ignition
   - rfairley-console-login-helper-messages
 
 ignore-removed-users:

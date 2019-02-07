@@ -1,0 +1,6 @@
+[sinnykumari-ignition]
+name=User repo for ignition whitout qemu_fw_cfg owned by sinnykumari 
+baseurl=https://sinnykumari.fedorapeople.org/custom-build/ignition/fedora-$releasever-$basearch/
+skip_if_unavailable=True
+gpgcheck=0
+enabled=1
